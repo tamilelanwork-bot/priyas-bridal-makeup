@@ -1,0 +1,2 @@
+Priya’s Bridal Makeup — responsive website
+Open index.html for the home page. Book an Appointment opens booking.html. Select multiple services from Priya and Team sections, then continue to the enquiry form. WhatsApp opens a pre-filled message to +91 9176099809; the client sends it in WhatsApp. Payment details are informational; no payment gateway is connected. Upload the complete folder to any static web host.
